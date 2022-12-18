@@ -1,1 +1,2 @@
-Here you can find some application of statndard ML techniques to finance.
+# Machine-Learning-Models-Python-
+Here you can fin applications and step-step codes for standard Machine Learning applications for finance.
